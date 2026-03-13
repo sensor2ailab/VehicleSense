@@ -7,7 +7,7 @@ val_path = os.path.join(dataset_path, "val")
 
 vehicle_classes = [
     "Truck", "Tractor", "LCV", "Bus", 
-    "Car", "3-wheeler", "E-rickshaw", "2-wheeler"
+    "Car", "3-wheeler", "2-wheeler"
 ]
 
 # Create dataset folders
